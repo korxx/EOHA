@@ -1,2 +1,5 @@
 # EOHA
-Everything.
+# Natural
+# Biological
+# Neuroscience
+
