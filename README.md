@@ -3,16 +3,18 @@ Everything.
 
 <h2>Doing</h2>
 <ul>
-    <li>Natural Biological Neuroscience research</li>
+    <li>Wiki to mkdir</li>
 </ul>
 
 <h2>To Do</h2>
 <ul>
+    <li>Formal sciences subfolders</li>
     <li>Natural Biological Neuroscience - Clean README.md</li>
 </ul>
 
 <h3>Done</h3>
 <ul>
+    <li>Natural Biological Neuroscience - Folders</li>
     <li>Natural Biological Neuroscience - Wikipedia</li>
     <li>Natural Biological sciences - Folders</li>
     <li>Natural sciences - Folders</li>
